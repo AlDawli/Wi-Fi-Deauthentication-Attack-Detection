@@ -21,7 +21,6 @@ Test client devices (phones, laptops, IoT devices)
 # Software Requirements
 Linux Distribution Setup
 Recommended distributions:
-
 Kali Linux (security-focused, tools pre-installed)
 Ubuntu/Debian (general purpose, manual tool installation)
 Parrot Security OS (security-focused alternative)
